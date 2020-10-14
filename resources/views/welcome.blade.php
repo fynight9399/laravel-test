@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome Laravel - by Bob
+                    Welcome Laravel - by lalala
                 </div>
 
                 <div class="links">
